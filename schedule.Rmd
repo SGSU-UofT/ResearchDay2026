@@ -12,18 +12,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Time: 9:45-10:00
 
-Speaker: KC Tsiolis (DoSS)
+Speaker: Luis Sierra (DoSS)
 
 
 
-### Block 1: Theoretical Statistics</span>  
+### Block 1: Data Science Theory</span>  
 
 Chair: KC Tsiolis (DoSS)
 
 | Time          | Title                                                                 | Speaker                      |
 |---------------------|-----------------------------------------------------------------------|------------------------------|
-| 10:00–10:30   | *Universality of Benign Overfitting in Binary Linear Classification* [(abstract)](abstracts.html#ichiro-hashimoto) | Ichiro Hashimoto (DoSS)      |
-| 10:30–11:00   | *Regression based EM Algorithm* [(abstract)](abstracts.html#bingqing-li) | Bingqing Li (DoSS)           |
+| 10:00–10:30   | *Convergence and Optimality of the EM Algorithm Under Multi-Component Gaussian Mixture Models* [(abstract)](abstracts.html#Bingqing-Li) | Bingqing Li (DoSS)      |
+| 10:30–11:00   | *Sparsity Meets Low-Rank: A Stein-Based Framework for Unbiased Risk Estimation in Matrix Denoising* [(abstract)](abstracts.html#Luis-Sierra) | Luis Sierra (DoSS)           |
 
 
 
@@ -31,13 +31,13 @@ Chair: KC Tsiolis (DoSS)
 
 ### Block 2: Applied Statistics</span>  
 
-Chair: Yaqi Shi (DoSS)
+Chair: ? (DoSS)
 
 | Time          | Title                                                                 | Speaker                             |
 |--------------------|-----------------------------------------------------------------------|-------------------------------------|
-| 11:15–11:45   | *Quantifying Uncertainty in Air Pollution Machine Learning Models* [(abstract)](abstracts.html#mandy-yao) | Mandy Yao (DoSS)                    |
-| 11:45–12:15   | *Causal Variance Decompositions for Measuring Health Inequalities* [(abstract)](abstracts.html#lin-yu) | Lin Yu (Public Health)              |
-| 12:15–12:45   | *Estimating Associations Between Cumulative Exposure and Health via Generalized Distributed Lag Non-Linear Models using Penalized Splines* [(abstract)](abstracts.html#tianyi-pan) | Tianyi Pan (Waterloo Stats & ActSci) |
+| 11:15–11:45   | *Scalable Gaussian Process Inference via Deep Generative Models: A New Framework for High-Cadence Time Series* [(abstract)](abstracts.html#Rodrigo-Herrera) | Rodrigo Herrera (DoSS)                    |
+| 11:45–12:15   | *Hierarchical Bayesian Copula Model for Probabilistic Population Projection* [(abstract)](abstracts.html#yichen-ji) | Yichen Ji (DoSS)              |
+| 12:15–12:45   | *A Spatiotemporal Analysis of Extreme Fire Weather in British Columbia: Identifying a Structural Change Point from 1981 to 2023* [(abstract)](abstracts.html#zoya-zaman) | Zoya Zaman (DoSS) |
 
 
 ### Lunch
@@ -52,8 +52,8 @@ Chair: Elijah French (DoSS)
 
 | Time          | Title                                                                 | Speaker                          |
 |--------------------|-----------------------------------------------------------------------|----------------------------------|
-| 13:30–14:00   | *Simplifying Complexities in IBNR Claims Count Estimation With A Bayesian GLM Approach* [(abstract)](abstracts.html#hassan-abdelrahman) | Hassan Abdelrahman (DoSS)       |
-| 14:00–14:30   | *Dimension Reduction of Distributionally Robust Optimization Problems* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (DoSS)              |
+| 13:30–14:00   | *Adaptive Window Selection for Financial Risk Forecasting* [(abstract)](abstracts.html#chenxin-lyu) | Chenxin Lyu (UWaterloo Stats)       |
+| 14:00–14:30   | *Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (DoSS)              |
 
 
 ### Poster Session
@@ -65,21 +65,21 @@ Abstracts for the poster session are also available [here](abstracts.html#Poster
 
 
 
-### Block 4: Graphical Models</span>  
+### Block 4: Machine Learning</span>  
 
-Chair: Ruyi Pan (DoSS)
+Chair: ? (DoSS)
 
 | Time          | Title                                                                 | Speaker                          |
 |--------------------|-----------------------------------------------------------------------|----------------------------------|
-| 15:45–16:15   | *Inference for Graphical Models for Extremes* [(abstract)](abstracts.html#philip-choi) | Philip Choi (DoSS)              |
-| 16:15–16:45   | *Restricted Search Space Graph MCMC via Birth-Death Processes* [(abstract)](abstracts.html#morris-greenberg) | Morris Greenberg (DoSS)         |
+| 15:45–16:15   | *A Pragmatic Method for Comparing Clusterings with Overlaps and Outliers* [(abstract)](abstracts.html#ryan-dewolfe) | Ryan DeWolfe (TMU Math)              |
+| 16:15–16:45   | *Sequential Probability Assignment against Smoothed Adversaries with Unknown Base Measure* [(abstract)](abstracts.html#ziyi-liu) | Ziyi Liu (DoSS)         |
 
 
 ### Closing Remarks
 
 Time: 16:45-17:00
 
-Speaker: KC Tsiolis (DoSS)
+Speaker: Luis Sierra (DoSS)
 
 
 

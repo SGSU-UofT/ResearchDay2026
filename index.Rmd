@@ -1,5 +1,5 @@
 ---
-title: "University of Toronto Statistics Graduate Student Research Day 2025"
+title: "University of Toronto Statistics Graduate Student Research Day 2026"
 site: distill::distill_website
 ---
 
@@ -15,47 +15,37 @@ knitr::opts_chunk$set(echo = FALSE)
 
 This year’s event will take place in person at the Department of Statistical Sciences, located on the **9th floor of the Ontario Power Building, 700 University Avenue, Toronto, ON, M5G 1Z5**. The talks and poster session will be held in the Maple and Cherry Rooms (9014 and 9016). A small breakfast (pastries and coffee) will be provided at 9:30 a.m. Opening remarks will begin at 9:45 a.m., followed by the first round of talks at 10:00 a.m. Lunch will be provided at 12:45 p.m. The poster session will be held at 2:30 p.m. The conference will conclude at approximately 5:00 p.m., after the closing remarks.  
 
-The schedule can be found [here](schedule.html). The event has four thematic blocks, corresponding to the main research areas in our department: Theoretical Statistics, Applied Statistics, Mathematical Finance and Actuarial Science, and Graphical Models. The abstracts can be found [here](abstracts.html). If you have any questions, please do not hesitate to reach out to a member of the organizing committee.
+The schedule can be found [here](schedule.html). The event has four thematic blocks, corresponding to the main research areas in our department: Data Science Theory, Applied Statistics, Mathematical Finance and Actuarial Science, and Machine Learning. The abstracts can be found [here](abstracts.html). If you have any questions, please do not hesitate to reach out to a member of the organizing committee.
 
 
 ### Event organizing committee
 
 <div style="text-align: center; margin-top: 10px;">
-
-<table style="margin-left: auto; margin-right: auto;">
-  <tr>
-    <td>Nnenna Asidianya</td>
-    <td>Elijah French</td>
-    <td>Bushra Haque</td>
-  </tr>
-  <tr>
-    <td>Ruyi Pan</td>
-    <td>Yaqi Shi</td>
-    <td>Fred Song</td>
-  </tr>
-  <tr>
-    <td>KC Tsiolis</td>
-    <td>Mandy Yao</td>
-<<<<<<< HEAD
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>Jingxin (Owen) Wang</td>
-    <td>&nbsp;</td>
-=======
-    <td>Jingxin (Owen) Wang</td>
->>>>>>> parent of bafaecd (Update index.Rmd)
-  </tr>
-</table>
-
+  <table style="margin-left: auto; margin-right: auto; width: 80%; max-width: 700px; table-layout: fixed;">
+    <tr>
+      <td style="padding: 10px 0;">Pak Hop Chan</td>
+      <td style="padding: 10px 0;">Pat Chimtanoo</td>
+      <td style="padding: 10px 0;">Elijah French</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 0;">William Groff</td>
+      <td style="padding: 10px 0;">Bernard Miškić</td>
+      <td style="padding: 10px 0;">Noah Ripstein</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 0;">Luis Sierra</td>
+      <td style="padding: 10px 0;">KC Tsiolis</td>
+      <td style="padding: 10px 0;">Vinky Wang</td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align: center; padding: 10px 0;">Mahdi Zamani</td>
+    </tr>
+  </table>
 </div>
-
-
-
 
 ### Acknowledgments
 
-The organizing committee extends sincere thanks to faculty advisors **Dr. Sebastian Jaimungal**, **Dr. Stanislav Volgushev**, and **Dr. Piotr Zwiernik**, as well as staff members **Angela Fleury**, **Karla Barrera**, and **Kachely Peters** for their guidance and support in planning this event.
+The organizing committee extends sincere thanks to the Graduate Chair **Dr. Stanislav Volgushev** as well as staff members **Angela Fleury**, **Karla Barrera**, and **Kachely Peters** for their guidance and support in planning this event.
 
 We are also grateful to the **Department of Statistical Sciences** at the University of Toronto for their generous funding and logistical support.
 
