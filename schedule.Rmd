@@ -12,18 +12,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Time: 9:45-10:00
 
-Speaker: Luis Sierra (DoSS)
+Speaker: Luis Sierra Muntané (SGSU President)
 
 
 
 ### Block 1: Data Science Theory</span>  
 
-Chair: KC Tsiolis (DoSS)
+Chair:  (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                      |
 |---------------------|-----------------------------------------------------------------------|------------------------------|
-| 10:00–10:30   | *Convergence and Optimality of the EM Algorithm Under Multi-Component Gaussian Mixture Models* [(abstract)](abstracts.html#bingqing-li) | Bingqing Li (DoSS)      |
-| 10:30–11:00   | *Sparsity Meets Low-Rank: A Stein-Based Framework for Unbiased Risk Estimation in Matrix Denoising* [(abstract)](abstracts.html#luis-sierra) | Luis Sierra (DoSS)           |
+| 10:00–10:30   | *Convergence and Optimality of the EM Algorithm Under Multi-Component Gaussian Mixture Models* [(abstract)](abstracts.html#bingqing-li) | Bingqing Li (UofT DoSS)      |
+| 10:30–11:00   | *Sparsity Meets Low-Rank: A Stein-Based Framework for Unbiased Risk Estimation in Matrix Denoising* [(abstract)](abstracts.html#luis-sierra-muntane) | Luis Sierra Muntané (UofT DoSS)           |
 
 
 
@@ -31,13 +31,13 @@ Chair: KC Tsiolis (DoSS)
 
 ### Block 2: Applied Statistics</span>  
 
-Chair: ? (DoSS)
+Chair: Pat Chimtanoo (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                             |
 |--------------------|-----------------------------------------------------------------------|-------------------------------------|
-| 11:15–11:45   | *Scalable Gaussian Process Inference via Deep Generative Models: A New Framework for High-Cadence Time Series* [(abstract)](abstracts.html#rodrigo-herrera) | Rodrigo Herrera (DoSS)                    |
-| 11:45–12:15   | *Hierarchical Bayesian Copula Model for Probabilistic Population Projection* [(abstract)](abstracts.html#yichen-ji) | Yichen Ji (DoSS)              |
-| 12:15–12:45   | *A Spatiotemporal Analysis of Extreme Fire Weather in British Columbia: Identifying a Structural Change Point from 1981 to 2023* [(abstract)](abstracts.html#zoya-zaman) | Zoya Zaman (DoSS) |
+| 11:15–11:45   | *Scalable Gaussian Process Inference via Deep Generative Models: A New Framework for High-Cadence Time Series* [(abstract)](abstracts.html#rodrigo-herrera) | Rodrigo Herrera (UofT DoSS)                    |
+| 11:45–12:15   | *Hierarchical Bayesian Copula Model for Probabilistic Population Projection* [(abstract)](abstracts.html#yichen-ji) | Yichen Ji (UofT DoSS)              |
+| 12:15–12:45   | *A Spatiotemporal Analysis of Extreme Fire Weather in British Columbia: Identifying a Structural Change Point from 1981 to 2023* [(abstract)](abstracts.html#zoya-zaman) | Zoya Zaman (UGuelph) |
 
 
 ### Lunch
@@ -48,12 +48,12 @@ Time: 12:45–13:30
 
 ### Block 3: Mathematical Finance and Actuarial Science</span>  
 
-Chair: Elijah French (DoSS)
+Chair: Elijah French (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                          |
 |--------------------|-----------------------------------------------------------------------|----------------------------------|
 | 13:30–14:00   | *Adaptive Window Selection for Financial Risk Forecasting* [(abstract)](abstracts.html#chenxin-lyu) | Chenxin Lyu (UWaterloo Stats)       |
-| 14:00–14:30   | *Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (DoSS)              |
+| 14:00–14:30   | *Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (UofT DoSS)              |
 
 
 ### Poster Session
@@ -67,19 +67,19 @@ Abstracts for the poster session are also available [here](abstracts.html#Poster
 
 ### Block 4: Machine Learning</span>  
 
-Chair: ? (DoSS)
+Chair: KC Tsiolis (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                          |
 |--------------------|-----------------------------------------------------------------------|----------------------------------|
-| 15:45–16:15   | *A Pragmatic Method for Comparing Clusterings with Overlaps and Outliers* [(abstract)](abstracts.html#ryan-dewolfe) | Ryan DeWolfe (TMU Math)              |
-| 16:15–16:45   | *Sequential Probability Assignment against Smoothed Adversaries with Unknown Base Measure* [(abstract)](abstracts.html#ziyi-liu) | Ziyi Liu (DoSS)         |
+| 15:45–16:15   | *A Pragmatic Method for Comparing Clusterings with Overlaps and Outliers* [(abstract)](abstracts.html#ryan-dewolfe) | Ryan DeWolfe (TMU Mathematics)              |
+| 16:15–16:45   | *Sequential Probability Assignment against Smoothed Adversaries with Unknown Base Measure* [(abstract)](abstracts.html#ziyi-liu) | Ziyi Liu (UofT DoSS)         |
 
 
 ### Closing Remarks
 
 Time: 16:45-17:00
 
-Speaker: Luis Sierra (DoSS)
+Speaker: Luis Sierra Muntané (SGSU President)
 
 
 
