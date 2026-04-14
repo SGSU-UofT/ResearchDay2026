@@ -23,17 +23,17 @@ The schedule can be found [here](schedule.html). The event has four thematic blo
 <div style="text-align: center; margin-top: 10px;">
   <table style="margin-left: auto; margin-right: auto; width: 80%; max-width: 700px; table-layout: fixed;">
     <tr>
+      <td style="padding: 10px 0;"><a href="https://luis-sierra-muntane.github.io/">Luis Sierra</a></td>
       <td style="padding: 10px 0;">Pak Hop Chan</td>
       <td style="padding: 10px 0;">Pat Chimtanoo</td>
-      <td style="padding: 10px 0;">Elijah French</td>
     </tr>
     <tr>
+      <td style="padding: 10px 0;">Elijah French</td>
       <td style="padding: 10px 0;">William Groff</td>
       <td style="padding: 10px 0;">Bernard Miškić</td>
-      <td style="padding: 10px 0;">Noah Ripstein</td>
     </tr>
     <tr>
-      <td style="padding: 10px 0;">Luis Sierra</td>
+      <td style="padding: 10px 0;">Noah Ripstein</td>
       <td style="padding: 10px 0;">KC Tsiolis</td>
       <td style="padding: 10px 0;">Vinky Wang</td>
     </tr>
@@ -45,7 +45,7 @@ The schedule can be found [here](schedule.html). The event has four thematic blo
 
 ### Acknowledgments
 
-The organizing committee extends sincere thanks to the Graduate Chair **Dr. Stanislav Volgushev** as well as staff members **Angela Fleury**, **Karla Barrera**, and **Kachely Peters** for their guidance and support in planning this event.
+The organizing committee extends sincere thanks to the Graduate Chair **Dr. Stanislav Volgushev** as well as staff members **Karla Barrera** and **Kachely Peters** for their guidance and support in planning this event.
 
 We are also grateful to the **Department of Statistical Sciences** at the University of Toronto for their generous funding and logistical support.
 
