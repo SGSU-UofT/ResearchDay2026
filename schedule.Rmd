@@ -31,7 +31,7 @@ Chair:  (UofT DoSS)
 
 ### Block 2: Applied Statistics</span>  
 
-Chair: Pat Chimtanoo (UofT DoSS)
+Chair: Bernard Miškić (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                             |
 |--------------------|-----------------------------------------------------------------------|-------------------------------------|
