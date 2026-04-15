@@ -18,7 +18,7 @@ Speaker: Luis Sierra Muntané (SGSU President)
 
 ### Block 1: Data Science Theory</span>  
 
-Chair:  (UofT DoSS)
+Chair: Pat Chimtanoo (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                      |
 |---------------------|-----------------------------------------------------------------------|------------------------------|
