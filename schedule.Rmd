@@ -52,8 +52,8 @@ Chair: Elijah French (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                          |
 |--------------------|-----------------------------------------------------------------------|----------------------------------|
-| 13:30–14:00   | *Adaptive Window Selection for Financial Risk Forecasting* [(abstract)](abstracts.html#chenxin-lyu) | Chenxin Lyu (UWaterloo Stats)       |
-| 14:00–14:30   | *Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (UofT DoSS)              |
+| 13:30–14:00   | *Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (UofT DoSS)             |
+| 14:00–14:30   |  *Adaptive Window Selection for Financial Risk Forecasting* [(abstract)](abstracts.html#chenxin-lyu) | Chenxin Lyu (UWaterloo Stats)       |
 
 
 ### Poster Session
