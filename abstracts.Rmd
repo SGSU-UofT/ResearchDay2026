@@ -37,10 +37,6 @@ Gaussian Processes represent the gold standard for Bayesian time-series modeling
 **Hierarchical Bayesian Copula Model for Probabilistic Population Projection**\
 Population forecasts inform critical decisions in public policy and economic planning, yet existing state-of-the-art methods often underestimate predictive uncertainty by modeling key demographic variables, such as fertility rates and life expectancy, as independent stochastic processes. This work proposes a hierarchical Bayesian framework for probabilistic population forecasting that models the joint dynamics of fertility and mortality across countries, regions, and time. Dependence structure will be represented using copulas, which allow flexible joint modeling while preserving interpretable marginal structures. The hierarchical design enables partial pooling across countries and regions, allowing countries with sparse data to be partially informed by broader regional patterns of demographic change while retaining country-specific trajectories. By producing more faithful joint predictive uncertainty quantification, this work delivers uncertainty-aware population projections that better support evidence-based policy and equitable decision-making for all countries worldwide. This project is still in progress.
 
-#### Zoya Zaman
-**A Spatiotemporal Analysis of Extreme Fire Weather in British Columbia: Identifying a Structural Change Point from 1981 to 2023**\
-Daily Severity Rating (DSR), a component of the Canadian Fire Weather Index, reflects the intensity and persistence of fire-conducive conditions. This study evaluates whether extreme DSR has increased significantly in British Columbia from 1981-2023 and whether a structural change point marks an acceleration consistent with climate-driven warming. Using a 20×20 km grid derived from blended station and reanalysis data, we analyze the upper tail of the DSR distribution via annual 95th percentiles and quantify persistence using sliding windows of exposure days. Distribution-free scan permutation tests are applied to detect statistically significant change points. climatic data was clustered to reveal internally homogeneous spatial fire-weather clusters. Cluster specific change-point analyses were then conducted to identify localized shifts in upper tail persistence that may be masked in province wide summaries. Results identify a significant upward shift in extreme DSR and increased persistence of exposure windows, indicating an emerging regime of more sustained and severe fire-weather conditions across the province.
-
 
 ### Block 3: Mathematical Finance and Actuarial Science
 
@@ -66,7 +62,7 @@ Smoothed online learning has recently been studied as a way to bypass hardness r
     
 
 
-## Poster Presentation
+## Poster Presentations
 
 The abstracts are listed in alphabetical order.
 
