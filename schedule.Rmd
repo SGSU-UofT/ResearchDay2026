@@ -26,7 +26,7 @@ Chair: Pat Chimtanoo (UofT DoSS)
 | 10:30–11:00   | *Quantifying Optimism and Model Comparison in Matrix Approximation: a Degrees of Freedom Approach* [(abstract)](abstracts.html#luis-sierra-muntane) | Luis Sierra Muntané (UofT DoSS)           |
 
 
-
+### Coffee Break
 
 
 ### Block 2: Applied Statistics</span>  
@@ -40,7 +40,7 @@ Chair: Bernard Miškić (UofT DoSS)
 
 ### Lunch
 
-Time: 12:15–13:00
+Time: 12:15–13:15
 
 
 
@@ -50,13 +50,13 @@ Chair: PH Chan (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                          |
 |--------------------|-----------------------------------------------------------------------|----------------------------------|
-| 13:00–13:30   | *Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (UofT DoSS)             |
-| 13:30–14:00   |  *Adaptive Window Selection for Financial Risk Forecasting* [(abstract)](abstracts.html#chenxin-lyu) | Chenxin Lyu (UWaterloo Stats)       |
+| 13:15–13:45   | *Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (UofT DoSS)             |
+| 13:45–14:15   |  *Adaptive Window Selection for Financial Risk Forecasting* [(abstract)](abstracts.html#chenxin-lyu) | Chenxin Lyu (UWaterloo Stats)       |
 
 
 ### Poster Session
 
-Time: 14:00–15:15
+Time: 14:15–15:30
 
 Abstracts for the poster session are also available [here](abstracts.html#Poster-Presentation).
 
@@ -69,13 +69,13 @@ Chair: KC Tsiolis (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                          |
 |--------------------|-----------------------------------------------------------------------|----------------------------------|
-| 15:15–15:45   | *A Pragmatic Method for Comparing Clusterings with Overlaps and Outliers* [(abstract)](abstracts.html#ryan-dewolfe) | Ryan DeWolfe (TMU Mathematics)              |
-| 15:45–16:15   | *Sequential Probability Assignment against Smoothed Adversaries with Unknown Base Measure* [(abstract)](abstracts.html#ziyi-liu) | Ziyi Liu (UofT DoSS)         |
+| 15:30–16:00   | *A Pragmatic Method for Comparing Clusterings with Overlaps and Outliers* [(abstract)](abstracts.html#ryan-dewolfe) | Ryan DeWolfe (TMU Mathematics)              |
+| 16:00–16:30   | *Sequential Probability Assignment against Smoothed Adversaries with Unknown Base Measure* [(abstract)](abstracts.html#ziyi-liu) | Ziyi Liu (UofT DoSS)         |
 
 
 ### Closing Remarks
 
-Time: 16:15-16:30
+Time: 16:30-16:30 + $\varepsilon$
 
 Speaker: Luis Sierra Muntané (SGSU President)
 
