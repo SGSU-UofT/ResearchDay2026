@@ -37,28 +37,26 @@ Chair: Bernard Miškić (UofT DoSS)
 |--------------------|-----------------------------------------------------------------------|-------------------------------------|
 | 11:15–11:45   | *Scalable Gaussian Process Inference via Deep Generative Models: A New Framework for High-Cadence Time Series* [(abstract)](abstracts.html#rodrigo-herrera) | Rodrigo Herrera (UofT DoSS)                    |
 | 11:45–12:15   | *Hierarchical Bayesian Copula Model for Probabilistic Population Projection* [(abstract)](abstracts.html#yichen-ji) | Yichen Ji (UofT DoSS)              |
-| 12:15–12:45   | *A Spatiotemporal Analysis of Extreme Fire Weather in British Columbia: Identifying a Structural Change Point from 1981 to 2023* [(abstract)](abstracts.html#zoya-zaman) | Zoya Zaman (UGuelph) |
-
 
 ### Lunch
 
-Time: 12:45–13:30
+Time: 12:15–13:00
 
 
 
 ### Block 3: Mathematical Finance and Actuarial Science</span>  
 
-Chair: Elijah French (UofT DoSS)
+Chair: PH Chan (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                          |
 |--------------------|-----------------------------------------------------------------------|----------------------------------|
-| 13:30–14:00   | *Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (UofT DoSS)             |
-| 14:00–14:30   |  *Adaptive Window Selection for Financial Risk Forecasting* [(abstract)](abstracts.html#chenxin-lyu) | Chenxin Lyu (UWaterloo Stats)       |
+| 13:00–13:30   | *Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies* [(abstract)](abstracts.html#brandon-tam) | Brandon Tam (UofT DoSS)             |
+| 13:30–14:00   |  *Adaptive Window Selection for Financial Risk Forecasting* [(abstract)](abstracts.html#chenxin-lyu) | Chenxin Lyu (UWaterloo Stats)       |
 
 
 ### Poster Session
 
-Time: 14:30–15:45
+Time: 14:00–15:15
 
 Abstracts for the poster session are also available [here](abstracts.html#Poster-Presentation).
 
@@ -71,13 +69,13 @@ Chair: KC Tsiolis (UofT DoSS)
 
 | Time          | Title                                                                 | Speaker                          |
 |--------------------|-----------------------------------------------------------------------|----------------------------------|
-| 15:45–16:15   | *A Pragmatic Method for Comparing Clusterings with Overlaps and Outliers* [(abstract)](abstracts.html#ryan-dewolfe) | Ryan DeWolfe (TMU Mathematics)              |
-| 16:15–16:45   | *Sequential Probability Assignment against Smoothed Adversaries with Unknown Base Measure* [(abstract)](abstracts.html#ziyi-liu) | Ziyi Liu (UofT DoSS)         |
+| 15:15–15:45   | *A Pragmatic Method for Comparing Clusterings with Overlaps and Outliers* [(abstract)](abstracts.html#ryan-dewolfe) | Ryan DeWolfe (TMU Mathematics)              |
+| 15:45–16:15   | *Sequential Probability Assignment against Smoothed Adversaries with Unknown Base Measure* [(abstract)](abstracts.html#ziyi-liu) | Ziyi Liu (UofT DoSS)         |
 
 
 ### Closing Remarks
 
-Time: 16:45-17:00
+Time: 16:15-16:30
 
 Speaker: Luis Sierra Muntané (SGSU President)
 
