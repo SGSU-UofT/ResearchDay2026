@@ -23,7 +23,7 @@ Chair: Pat Chimtanoo (UofT DoSS)
 | Time          | Title                                                                 | Speaker                      |
 |---------------------|-----------------------------------------------------------------------|------------------------------|
 | 10:00–10:30   | *Convergence and Optimality of the EM Algorithm Under Multi-Component Gaussian Mixture Models* [(abstract)](abstracts.html#bingqing-li) | Bingqing Li (UofT DoSS)      |
-| 10:30–11:00   | *Sparsity Meets Low-Rank: A Stein-Based Framework for Unbiased Risk Estimation in Matrix Denoising* [(abstract)](abstracts.html#luis-sierra-muntane) | Luis Sierra Muntané (UofT DoSS)           |
+| 10:30–11:00   | *Quantifying Optimism and Model Comparison in Matrix Approximation: a Degrees of Freedom Approach* [(abstract)](abstracts.html#luis-sierra-muntane) | Luis Sierra Muntané (UofT DoSS)           |
 
 
 
